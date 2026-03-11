@@ -1,0 +1,12 @@
+# Ignore dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Ignore local environment files
+.env
+
+# Ignore large uploads/runs
+uploads/
+runs/
